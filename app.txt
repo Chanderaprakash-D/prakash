@@ -1,2 +1,6 @@
 Hello Prakash how are you
 Welcome to Mallow Technologies
+A - apple
+B - ball
+C - cat
+D - dog
